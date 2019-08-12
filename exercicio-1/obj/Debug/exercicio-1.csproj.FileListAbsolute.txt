@@ -1,0 +1,10 @@
+C:\ghr-vivian\exercicio-1\exercicio-1\bin\Debug\exercicio-1.exe.config
+C:\ghr-vivian\exercicio-1\exercicio-1\bin\Debug\exercicio-1.exe
+C:\ghr-vivian\exercicio-1\exercicio-1\bin\Debug\exercicio-1.pdb
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio-1.csprojAssemblyReference.cache
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio_1.Form1.resources
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio_1.Properties.Resources.resources
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio-1.csproj.GenerateResource.cache
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio-1.csproj.CoreCompileInputs.cache
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio-1.exe
+C:\ghr-vivian\exercicio-1\exercicio-1\obj\Debug\exercicio-1.pdb
