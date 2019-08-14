@@ -19,6 +19,7 @@ namespace exercicio_2
 
         private void BtnCalcular_Click(object sender, EventArgs e)
         {
+            //nome de variável começa com letra minuscula
             double A = Convert.ToDouble(txtA.Text);
             double B = Convert.ToDouble(txtB.Text);
             double formula = Math.Pow((A * 9) / (87 - B),2);

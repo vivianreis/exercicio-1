@@ -22,7 +22,7 @@ namespace exercicio_4
             double tempo = Convert.ToDouble(txtTempo.Text);
             double velocidade = Convert.ToDouble(txtVelocidade.Text);
             double distancia = tempo * velocidade;
-            double qtdLitrosUsada = distancia / 12;
+            double qtdLitrosUsada = distancia / 12; //colocar o 12 dentro de uma variável e chamar a variável na hora da divisão
 
             MessageBox.Show($@"A velocidade média foi de: {velocidade} km/h
 O tempo gasto na viagem foi de: {tempo} horas
